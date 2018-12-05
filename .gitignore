@@ -1,0 +1,10 @@
+_site/
+*.swp
+pkg/
+test/
+.idea/
+.sass-cache
+test.md
+test2.md
+GemFile.lock
+.vscode/
